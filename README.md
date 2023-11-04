@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 # @muath-ye/catalog
 
 A `cat` on **Windows** is a Node.js command-line app that reads the contents of a file or URL and prints them to the console.
